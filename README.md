@@ -4,17 +4,25 @@
 ## 使用方法
 q4.cppを実行すると以下のように数値の入力を要求されます。
 
+
+
 <p align="center">
-  <img src="https://github.com/zenon-paul/Computational_Logic_final_report/issues/1#issue-2810769651" alt="input" width="400px">
+  <img src="https://github.com/zenon-paul/Computational_Logic_final_report/issues/1#issue-2810769651" alt="input" width="300px">
 </p>
+
+
 
 
 ここでは時刻１から９への変化、すなわち８回マスの更新を行うため８と入力します。
 数秒後以下のように検索結果が表示されます。
 
+
+
 <p align="center">
-  <img src="https://github.com/zenon-paul/Computational_Logic_final_report/issues/2#issue-2810769888" alt="output" width="400px">
+  <img src="https://github.com/zenon-paul/Computational_Logic_final_report/issues/2#issue-2810769888" alt="output" width="300px">
 </p>
+
+
 
 
 入力した数分ステップを進めた後の状態が問題で
