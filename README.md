@@ -4,8 +4,9 @@
 ## 使用方法
 q4.cppを実行すると以下のように数値の入力を要求されます。
 
-
-![fig1](https://github.com/zenon-paul/Computational_Logic_final_report/issues/1#issue-2810769651)
+<p align="center">
+  <img src="https://github.com/zenon-paul/Computational_Logic_final_report/issues/1#issue-2810769651" alt="input" width="400px">
+</p>
 
 
 ここでは時刻１から９への変化、すなわち８回マスの更新を行うため８と入力します。
